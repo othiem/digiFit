@@ -1,2 +1,2 @@
 # digiFit
-DECO3500 Prototype
+3D Mobile Fitting Clothes Application 
